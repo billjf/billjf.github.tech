@@ -1,5 +1,5 @@
 # billjf.github.tech
-![Header Image](https://github.com/billjf/billjf.github.tech/blob/main/IMG_4756.JPEG)
+![Header Image](https://github.com/billjf/billjf.github.tech/blob/main/billpython.JPEG)
 
 # Steps You Need to Take After Graduation to Land a Tech Job
 
